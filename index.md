@@ -20,4 +20,3 @@ with [Elle Buser](https://ellebuser.github.io/) and [Emma Hart](https://math.emo
  - I have a cat named [Georgia](https:///bhuenemann.github.io/documents/LargeKitten.jpeg).
  - I like to crochet [little creatures](https:///bhuenemann.github.io/documents/Crochet.jpg) for people.
  - [Cantaloupe Island](https://www.youtube.com/watch?v=uDV3bLNxDMw).
- - Former [World Record Holder](https://www.speedrun.com/goose/runs/m3gg1xdz).
