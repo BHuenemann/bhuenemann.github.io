@@ -13,11 +13,15 @@ with [Elle Buser](https://ellebuser.github.io/) and [Emma Hart](https://math.emo
  - MATH 100A: *Intermediate Algebra*, Fall 2025, Instructor of Record and Associate Convener
  - MATH 203: *Contemporary Mathematics*, Spring 2025, Instructor of Record
  - MATH 101: *College Algebra*, Fall 2024, Instructor of Record
- - MATH 106: *Calculus 1*, Fall 2023 and Spring 2024, Recitation Leader
+ - MATH 106: *Calculus 1*, Fall 2023 and Spring 2024, Recitation Instructor
 
 ## Workshops and Conferences
+2025:
+ - KUMUNU at University of Missouri
  - Summer CAMP 2.0 (Commutative Algebra Market Preparedness) at University of Nebraska-Lincoln
  - URiCA (Upcoming Researchers in Commutative Algebra) at University of Nebraska-Lincoln
+
+Prior to 2023:
  - Gulf Coast Undergraduate Research Symposium at Rice University
  - Georgia Scientific Computing Symposium at Georgia Institute of Technology
  - Undergraduate Research Symposium at University of Utah
