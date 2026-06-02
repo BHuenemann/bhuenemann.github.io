@@ -1,32 +1,45 @@
 ## About
-Hello! I am a third-year graduate student at the University of Nebraska-Lincoln advised by [Dr. Alexandra Seceleanu](https://aseceleanu.github.io/). Broadly speaking, I am interested in homological aspects of commutative algebra.
+
+Hello! I am a fourth-year graduate student at the University of Nebraska-Lincoln advised by [Dr. Alexandra Seceleanu](https://aseceleanu.github.io/). Broadly speaking, I am interested in homological aspects of commutative algebra.
 
 See my cv [here](https:///bhuenemann.github.io/documents/CV.pdf).
-  
+
 ## Publications and Preprints
-  - On χ-slice pretzel links. [DOI](https://www.sciencedirect.com/science/article/abs/pii/S0166864125003761), [arXiv](https://arxiv.org/abs/2306.01585).  
+
+* On χ-slice pretzel links. [DOI](https://www.sciencedirect.com/science/article/abs/pii/S0166864125003761), [arXiv](https://arxiv.org/abs/2306.01585).  
 with [Sophia Fanelle](https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/sophia-fanelle.html), [Evan Huang](https://www.math.princeton.edu/people/evan-huang), [Weizhe Shen](https://www.math.ucdavis.edu/people), [Jonathan Simone](https://www.math.cmu.edu/~jsimone/), and [Hannah Turner](https://sites.google.com/view/hturner/).
-  - Comparison of Atlas-Based and Neural-Network-Based Semantic Segmentation for DENSE MRI Images. [DOI](https://doi.org/10.1137/21S1448392), [arXiv](https://arxiv.org/abs/2109.14116).  
+* Comparison of Atlas-Based and Neural-Network-Based Semantic Segmentation for DENSE MRI Images. [DOI](https://doi.org/10.1137/21S1448392), [arXiv](https://arxiv.org/abs/2109.14116).  
 with [Elle Buser](https://ellebuser.github.io/) and [Emma Hart](https://math.emory.edu/~ehart5/).
 
 ## Teaching
- - MATH 100A: *Intermediate Algebra*, Fall 2025, Instructor of Record and Associate Convener
- - MATH 203: *Contemporary Mathematics*, Spring 2025, Instructor of Record
- - MATH 101: *College Algebra*, Fall 2024, Instructor of Record
- - MATH 106: *Calculus 1*, Fall 2023 and Spring 2024, Recitation Instructor
+
+* MATH 100A: *Intermediate Algebra*, Fall 2025 and Spring 2026, Instructor of Record and Associate Convener
+* MATH 203: *Contemporary Mathematics*, Spring 2025, Instructor of Record
+* MATH 101: *College Algebra*, Fall 2024, Instructor of Record
+* MATH 106: *Calculus 1*, Fall 2023 and Spring 2024, Recitation Instructor
 
 ## Workshops and Conferences
+
+2026:
+
+* Pan-American School in Commutative Algebra 2.0 at CIMAT, Mexico
+* CA+ at Iowa State University
+
 2025:
- - KUMUNU at University of Missouri
- - Summer CAMP 2.0 (Commutative Algebra Market Preparedness) at University of Nebraska-Lincoln
- - URiCA (Upcoming Researchers in Commutative Algebra) at University of Nebraska-Lincoln
+
+* KUMUNU at University of Missouri
+* Summer CAMP 2.0 (Commutative Algebra Market Preparedness) at University of Nebraska-Lincoln
+* URiCA (Upcoming Researchers in Commutative Algebra) at University of Nebraska-Lincoln
 
 Prior to 2023:
- - Gulf Coast Undergraduate Research Symposium at Rice University
- - Georgia Scientific Computing Symposium at Georgia Institute of Technology
- - Undergraduate Research Symposium at University of Utah
+
+* Gulf Coast Undergraduate Research Symposium at Rice University
+* Georgia Scientific Computing Symposium at Georgia Institute of Technology
+* Undergraduate Research Symposium at University of Utah
 
 ## Misc
- - I have a cat named [Georgia](https:///bhuenemann.github.io/documents/LargeKitten.jpeg)
- - I like to crochet [little creatures](https:///bhuenemann.github.io/documents/Crochet.jpg) for people
- - [Cantaloupe Island](https://www.youtube.com/watch?v=uDV3bLNxDMw)
+
+* I have a cat named [Georgia](https:///bhuenemann.github.io/documents/LargeKitten.jpeg)
+* I like to crochet [little creatures](https:///bhuenemann.github.io/documents/Crochet.jpg) for people
+* [Cantaloupe Island](https://www.youtube.com/watch?v=uDV3bLNxDMw)
+
