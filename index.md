@@ -22,20 +22,20 @@ with [Elle Buser](https://ellebuser.github.io/) and [Emma Hart](https://math.emo
 
 2026:
 
-* Pan-American School in Commutative Algebra 2.0 at CIMAT, Mexico
-* CA+ at Iowa State University
+* [Pan-American School in Commutative Algebra 2.0](https://jack-jeffries.github.io/PASCA26/PASCA.html) at CIMAT, Mexico
+* [CA+](https://www-users.cse.umn.edu/~cberkesc/CA/CA2026.html) at Iowa State University
 
 2025:
 
-* KUMUNU at University of Missouri
-* Summer CAMP 2.0 (Commutative Algebra Market Preparedness) at University of Nebraska-Lincoln
-* URiCA (Upcoming Researchers in Commutative Algebra) at University of Nebraska-Lincoln
+* [KUMUNU](https://sites.google.com/view/kumunu2025) at University of Missouri
+* [Summer CAMP 2.0 (Commutative Algebra Market Preparedness)](https://nebraskacommalg.github.io/RTG/conferences/camp2025.html) at University of Nebraska-Lincoln
+* [URiCA (Upcoming Researchers in Commutative Algebra)](https://urica-unl.github.io/2025/index.html) at University of Nebraska-Lincoln
 
 Prior to 2023:
 
-* Gulf Coast Undergraduate Research Symposium at Rice University
-* Georgia Scientific Computing Symposium at Georgia Institute of Technology
-* Undergraduate Research Symposium at University of Utah
+* [Gulf Coast Undergraduate Research Symposium](https://gcurs.rice.edu/) at Rice University
+* [Georgia Scientific Computing Symposium](https://comp-physics.group/GSCS22/) at Georgia Institute of Technology
+* [Undergraduate Research Symposium](https://our.utah.edu/education-events/undergraduate-research-symposium-urs/) at University of Utah
 
 ## Misc
 
