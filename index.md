@@ -28,8 +28,8 @@ with [Elle Buser](https://ellebuser.github.io/) and [Emma Hart](https://math.emo
 2025:
 
 * [KUMUNU](https://sites.google.com/view/kumunu2025) at University of Missouri
-* [Summer CAMP 2.0 (Commutative Algebra Market Preparedness)](https://nebraskacommalg.github.io/RTG/conferences/camp2025.html) at University of Nebraska-Lincoln
-* [URiCA (Upcoming Researchers in Commutative Algebra)](https://urica-unl.github.io/2025/index.html) at University of Nebraska-Lincoln
+* [Summer CAMP 2.0](https://nebraskacommalg.github.io/RTG/conferences/camp2025.html) (Commutative Algebra Market Preparedness) at University of Nebraska-Lincoln
+* [URiCA](https://urica-unl.github.io/2025/index.html) (Upcoming Researchers in Commutative Algebra) at University of Nebraska-Lincoln
 
 Prior to 2023:
 
