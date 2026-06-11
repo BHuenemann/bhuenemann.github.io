@@ -1,4 +1,7 @@
 theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: "Ben Huenemann"
 description: "Email: " <a href=mailto:"bhuenemann3@nebraska.edu">bhuenemann3@nebraska.edu</a>
 logo: https://raw.githubusercontent.com/bhuenemann/bhuenemann.github.io/main/documents/View.png
