@@ -17,6 +17,7 @@ with [Elle Buser](https://ellebuser.github.io/) and [Emma Hart](https://math.emo
 
 ## Teaching
 
+* MATH 221: *Differential Equations*, Fall 2026, Recitation Instructor
 * MATH 100A: *Intermediate Algebra*, Fall 2025 and Spring 2026, Instructor of Record and Associate Convener
 * MATH 203: *Contemporary Mathematics*, Spring 2025, Instructor of Record
 * MATH 101: *College Algebra*, Fall 2024, Instructor of Record
@@ -26,6 +27,8 @@ with [Elle Buser](https://ellebuser.github.io/) and [Emma Hart](https://math.emo
 
 2026:
 
+* (Upcoming) [Arbeitsgemeinschaft on New Homological Methods in Toric Geometry](https://www.commalg.org/event/oberwolfach-arbeitsgemeinschaft-on-new-homological-methods-in-toric-geometry/) at Oberwolfach Research Institute for Mathematics, Germany
+* [URiCA](https://urica-unl.github.io/) (Upcoming Researchers in Commutative Algebra) at University of Nebraska-Lincoln
 * [Pan-American School in Commutative Algebra 2.0](https://jack-jeffries.github.io/PASCA26/PASCA.html) at CIMAT, Mexico
 * [CA+](https://www-users.cse.umn.edu/~cberkesc/CA/CA2026.html) at Iowa State University
 
