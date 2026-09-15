@@ -6,7 +6,7 @@ layout: default
 
 Hello! I am a fourth-year graduate student at the University of Nebraska-Lincoln advised by [Dr. Alexandra Seceleanu](https://aseceleanu.github.io/). Broadly speaking, I am interested in homological aspects of commutative algebra.
 
-See my cv [here](https:///bhuenemann.github.io/documents/CV.pdf).
+See my cv [here](https://bhuenemann.github.io/documents/CV.pdf).
 
 ## Publications and Preprints
 
@@ -43,7 +43,7 @@ Prior to 2023:
 
 ## Misc
 
-* I have a cat named [Georgia](https:///bhuenemann.github.io/documents/LargeKitten.jpeg)
-* I like to crochet [little creatures](https:///bhuenemann.github.io/documents/Crochet.jpg) for people
+* I have a cat named [Georgia](https://bhuenemann.github.io/documents/LargeKitten.jpeg)
+* I like to crochet [little creatures](https://bhuenemann.github.io/documents/Crochet.jpg) for people
 * [Cantaloupe Island](https://www.youtube.com/watch?v=uDV3bLNxDMw)
 
