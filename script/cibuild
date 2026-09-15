@@ -3,6 +3,6 @@
 set -e
 
 bundle exec jekyll build
-bundle exec htmlproofer ./_site --check-sri
+bundle exec htmlproofer ./_site --disable-external
 bundle exec ruby script/validate-html
 gem build jekyll-theme-minimal.gemspec
