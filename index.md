@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## About
 
 Hello! I am a fourth-year graduate student at the University of Nebraska-Lincoln advised by [Dr. Alexandra Seceleanu](https://aseceleanu.github.io/). Broadly speaking, I am interested in homological aspects of commutative algebra.
